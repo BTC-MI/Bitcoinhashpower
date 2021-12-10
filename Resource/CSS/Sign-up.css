@@ -6,6 +6,8 @@ body{
    background-size: cover;
    margin: 0;
    padding: 0;
+   background-repeat: no-repeat;
+   height: 100vh;
 }
 
 p{
@@ -17,7 +19,7 @@ p{
     box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
     background-image: linear-gradient(rgba(0, 0, 0, 0.50),rgba(0, 0, 0, 0.16));
     padding: 20px;
-    margin: 8% auto 0;
+    margin: 90px auto 0;
     text-align: center;
     border: 1px solid #000;
 }
@@ -62,12 +64,12 @@ a{
 
 hr{
     margin-top: 20px;
-    width: 80%;
+    width: 100%;
 }
 
 .or{
     background-image: linear-gradient(rgba(0, 0, 0, 0.13), rgba(0, 0, 0, 0.13));
     width: 30px;
-    margin: -19px auto 10px;
+    margin: -10px auto 10px;
     color: #fff;
 }
