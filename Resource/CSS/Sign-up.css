@@ -4,6 +4,7 @@
 body{
    background-image: url(LOGO4.jpg);
    background-size: cover;
+   background-position: center;
    margin: 0;
    padding: 0;
    background-repeat: no-repeat;
