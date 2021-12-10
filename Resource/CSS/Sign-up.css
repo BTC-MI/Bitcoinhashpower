@@ -1,3 +1,6 @@
+*{margin: 0; padding: 0;
+}
+
 body{
    background-image: url(LOGO4.jpg);
    background-size: cover;
@@ -38,7 +41,7 @@ button{
     width: 100%;
     padding: 10px;
     border-radius: 20px;
-    font-size: 15px;
+    font-size: 75%;
     margin: 10px 0;
     border: none;
     outline: none;

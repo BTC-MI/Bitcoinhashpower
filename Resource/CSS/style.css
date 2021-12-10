@@ -139,6 +139,23 @@ h6{
     color: #888888;
 }
 
+.lpc:link,
+.lpc:visited{
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 200px;
+    font-weight: 300;
+    display: inline-block;
+    font-size: 120%;
+    border:1px solid #0000ff;
+}
+
+.lpc:hover,
+.lpc:active{
+     background-color: #0000ff;
+    color: #888888;
+}
+
 .btn-opq:link,
 .btn-opq:visited{
     background-color: #5a5af0;
@@ -176,10 +193,10 @@ header {
 
 .main-txt {
     position: absolute;
-    width: 83%;
+    width: 80%;
     left: 20%;
     top: 40%;
-    width: 50%;
+    
     color: #fff;
    
 }
@@ -344,5 +361,4 @@ ul{
     list-style: none;
 }
 
-
-
+.col{width: 32%}
